@@ -1,0 +1,25 @@
+cd D:\Ambiente_Desenvolvimento\Pasta_POO_JAVA\PrimeiroProjeto; "JAVA_HOME=C:\\Program Files\\Java\\jdk-17.0.4.1" cmd /c "\"C:\\Program Files\\NetBeans-14\\netbeans\\java\\maven\\bin\\mvn.cmd\" -Dexec.vmArgs= \"-Dexec.args=${exec.vmArgs} -classpath %classpath ${exec.mainClass} ${exec.appArgs}\" -Dexec.appArgs= -Dexec.mainClass=oo.primeiroprojeto.PrimeiroProjeto \"-Dexec.executable=C:\\Program Files\\Java\\jdk-17.0.4.1\\bin\\java.exe\" \"-Dmaven.ext.class.path=C:\\Program Files\\NetBeans-14\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar\" -Dfile.encoding=UTF-8 org.codehaus.mojo:exec-maven-plugin:3.0.0:exec"
+Running NetBeans Compile On Save execution. Phase execution is skipped and output directories of dependency projects (with Compile on Save turned on) will be used instead of their jar artifacts.
+Scanning for projects...
+
+-----------------< oo.primeiroprojeto:PrimeiroProjeto >-----------------
+Building PrimeiroProjeto 1.0-SNAPSHOT
+--------------------------------[ jar ]---------------------------------
+
+--- exec-maven-plugin:3.0.0:exec (default-cli) @ PrimeiroProjeto ---
+Nota 1:
+1
+Nota 2:
+2
+Nota 3:
+2
+Nota 4:
+3
+Média: 2.0
+Você está de recuperação
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time:  10.944 s
+Finished at: 2022-08-19T22:06:48-03:00
+------------------------------------------------------------------------
